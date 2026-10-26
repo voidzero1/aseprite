@@ -1,6 +1,7 @@
 name: Build Aseprite Windows EXE
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
